@@ -1,8 +1,9 @@
 # MJ-bootstrap-portfolio
 
-I have created my work portfolio to showcase my strength, and various experience with different projects that I did previously.I have worked with various language such as:
+I have created my work portfolio to showcase my strength, and various experience with different projects that I have done.I have worked with various language such as:
 - HTML
 - CSS
+- Bootstrap
 - Java Script
 
 My portfolio contains:
