@@ -13,9 +13,9 @@ My portfolio contains:
 - About Me
 - My contact/Links
 
-![screenshot](./images/screencapture-127-0-0-1-5500-MJ-Portfolio-MJ-portfolio-web-index-html-2023-10-31-23_20_49.png)
+![screenshot](./images/screencapture-127-0-0-1-5500-bootstrap-portfolio-MJ-bootstrap-portfolio-index-html-2023-11-07-00_01_52.png)
 
-[click here to Webpage]()
+[click here to Webpage](https://salala1005.github.io/MJ-bootstrap-portfolio/)
 
 [Click here to github](https://github.com/Salala1005/MJ-bootstrap-portfolio)
 
